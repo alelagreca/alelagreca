@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-linkedin.com/in/alejandro-la-greca-394aa955
+
 <!--
 **alelagreca/alelagreca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
