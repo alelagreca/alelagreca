@@ -17,22 +17,14 @@ Here are some ideas to get you started:
 -->
 
 
-<br />
-
 ### you can get in touch with me at
-
-[<img align="left" alt="aled_lg | Twitter" width="22px" src="https://cdn.jsdelivir.net/npm/simple-icons@v3/icons/twitter.svg" 
-/>][twitter]
-[<img align="left" alt="alelagreca | LinkedIn" width="22px" src="https://cdn.jsdelivir.net/npm/simple-icons@v3/icons/linkedin.svg" 
-/>][linkedin]
+[<img align="left" alt="aled_lg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="alelagreca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ale.lagreca | Gmail" width="22px" src="https://cdn.jsdelivir.net/npm/simple-icons@v3/icons/gmail.svg" 
 />][gmail]
 
 <br />
 
-<!-- 
-Definitions:
--->
 
 [twitter]: https://twitter.com/aled_lg
 [linkedin]: https://linkedin.com/in/alejandro-la-greca-394aa955
