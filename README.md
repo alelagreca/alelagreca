@@ -15,18 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br />
+<br />
 
 
-### you can get in touch with me at
+### you can get in touch with me
 [<img align="left" alt="aled_lg | Twitter" width="22px" src="twitter.svg" />][twitter]
 [<img align="left" alt="alelagreca | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
-[<img align="left" alt="alelagreca | F6" width="22px" src="https://www.f6s.com/static-resource/images/f6s-logo.png?u=4e3854f5a952ad62160f450d1b73206d" />][f6]
-
-
+[<img align="left" alt="alelagreca | F6" width="22px" src="f6s-logo.png" />][f6]
 
 <br />
 
 
+<!--
+Definitions
+-->
 [twitter]: https://twitter.com/aled_lg
 [linkedin]: https://linkedin.com/in/alejandro-la-greca-394aa955
 [f6]: https://www.f6s.com/alejandrolagreca
