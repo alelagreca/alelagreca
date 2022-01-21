@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 ### you can get in touch with me at
-[<img style="background-color: white" align="left" alt="aled_lg | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img style="background-color: white" align="left" alt="alelagreca | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aled_lg | Twitter" width="22px" src="twitter.svg" />][twitter]
+[<img align="left" alt="alelagreca | LinkedIn" width="22px" src="linkedin.svg" />][linkedin]
 [<img align="left" alt="alelagreca | F6" width="22px" src="https://www.f6s.com/static-resource/images/f6s-logo.png?u=4e3854f5a952ad62160f450d1b73206d" />][f6]
 
 
