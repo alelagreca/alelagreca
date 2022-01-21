@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-### I'm currently using and continuously learning
+### **currently using and continuously learning**
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rbase]
@@ -26,10 +26,12 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="logos/github.svg" />][github]
 [<img align="left" alt="Terminal" width="26px" src="logos/gnubash.svg" />][bash]
 
+
 <br />
 <br />
 
-### you can get in touch with me
+
+### **get in touch with me**
 [<img align="left" alt="aled_lg | Twitter" width="22px" src="logos/twitter.svg" />][twitter]
 [<img align="left" alt="alelagreca | LinkedIn" width="22px" src="logos/linkedin.svg" />][linkedin]
 [<img align="center" alt="alelagreca | MultiplAI" width="50px" height="10px" src="logos/multiplai_logo.png" />][multiplai]
@@ -37,7 +39,11 @@ Here are some ideas to get you started:
 
 
 <br />
+<br />
 
+
+### **a few words about me**
+I got my degree in molecular biology at the University of Buenos Aires. As an undergraduate I joined a lab in the Institute of Biology and Experimental Medicine (IBYME-CONICET, Buenos Aires) to study hormone-dependent gene regulation in endometrial adenocarcinoma cells, which resulted in a bachelor thesis. I then went on to obtain my PhD on the regulatory mechanisms of nuclear steroid receptors and chromosome architecture using the same in vitro model. During the PhD I completed three separate internships in the Center for Genomic Regulation (Barcelona) as part of a collaborative project focused on investigating cell-type specific gene regulation on endometrial and mammary cancer cells. Currently, I hold a postdoc position at FLENI Institute (Buenos Aires) where I study Stem Cell Biology and the expression dynamics of non-coding RNAs during cardiac differentiation using diverse molecular, gene editing and bioinformatic tools.
 
 
 <!--
