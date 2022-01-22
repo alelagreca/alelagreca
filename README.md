@@ -50,13 +50,19 @@ Here are some ideas to get you started:
 
 ### **a few words about me**
 ---
-I got my degree in molecular biology at the University of Buenos Aires. As an undergraduate I joined a lab in the Institute of Biology and Experimental Medicine (IBYME-CONICET, Buenos Aires) to study hormone-dependent gene regulation in endometrial adenocarcinoma cells, which resulted in a bachelor thesis. I then went on to obtain my PhD on the regulatory mechanisms of nuclear steroid receptors and chromosome architecture using the same in vitro model. During the PhD I completed three separate internships in the Center for Genomic Regulation (Barcelona) as part of a collaborative project focused on investigating cell-type specific gene regulation on endometrial and mammary cancer cells. Currently, I hold a postdoc position at FLENI Institute (Buenos Aires) where I study Stem Cell Biology and the expression dynamics of non-coding RNAs during cardiac differentiation using diverse molecular, gene editing and bioinformatic tools.
+I got my degree in molecular biology at the University of Buenos Aires. As an undergraduate I joined a lab in the Institute of Biology and Experimental Medicine (IBYME-CONICET, Buenos Aires) to study hormone-dependent gene regulation in endometrial adenocarcinoma cells, which resulted in a bachelor thesis. I then went on to obtain my PhD on the regulatory mechanisms of nuclear steroid receptors and chromosome architecture using the same in vitro model. 
+
+During the PhD I completed three separate internships in the Center for Genomic Regulation (Barcelona) as part of a collaborative project focused on investigating cell-type specific gene regulation on endometrial and mammary cancer cells. 
+
+Currently, I hold a postdoc position at FLENI Institute (Buenos Aires) where I study Stem Cell Biology and the expression dynamics of non-coding RNAs during cardiac differentiation using diverse molecular, gene editing and bioinformatic tools.
 
 <!--
 [<img align="left" alt="LIAN" width="50px" height="50px" src="logos/lian_logo.svg" />][lian]
 [<img align="left" alt="Fleni Institute" width="26px" src="logos/fleni_logo.svg" />][fleni]
-[<img align="center" alt="IBYME" width="30px" src="logos/logo-ibyme_fibyme.jpg" />][ibyme]
 [<img align="center" alt="CONICET" width="30px" src="logos/logo-CONICET_opt.png" />][conicet]
+[<img align="center" alt="IBYME" width="30px" src="logos/logo-ibyme_fibyme.jpg" />][ibyme]
+[<img align="center" alt="CRG" width="30px" src="logos/logo_crg_.jpg" />][crg]
+
 -->
 
 <br />
