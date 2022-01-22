@@ -1,7 +1,7 @@
 ## Hi there, I'm Ale 👋
 
 ### now I'm listening
-[![Spotify](https://alelagreca.vercel.app/api/spotify)](https://open.spotify.com/user/alelagreca)
+[<img src="https://novatorem-alelagreca.vercel.app/api/spotify-playing" alt="Spotify playing" width="350px" />](https://open.spotify.com/user/alelagreca)
 
 <!--
 **alelagreca/alelagreca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
