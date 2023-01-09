@@ -56,6 +56,8 @@ During the PhD I completed three separate internships in the Center for Genomic 
 
 Currently, I hold a postdoc position at FLENI Institute (Buenos Aires) where I study Stem Cell Biology and the expression dynamics of non-coding RNAs during cardiac differentiation using diverse molecular, gene editing and bioinformatic tools.
 
+Also, I'm the Bioinformatics and Data Analysis Team Lead in MultiplAI Health, a startup dedicated to making cardiovascular screening accessible for anyone.
+
 <!--
 [<img align="left" alt="LIAN" width="50px" height="50px" src="logos/lian_logo.svg" />][lian]
 [<img align="left" alt="Fleni Institute" width="26px" src="logos/fleni_logo.svg" />][fleni]
