@@ -76,7 +76,9 @@ Also, I'm the Bioinformatics and Data Analysis Team Lead in MultiplAI Health, a 
 <br />
 <br />
 
+<!-- ##Uncomment to show commit score##
 <img align="center" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=alelagreca&show_icons=true&hide_borders=true&count_private=true&theme=radical&include_all_commits=false" />
+-->
 
 <!--
 Definitions
