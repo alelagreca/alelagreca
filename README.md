@@ -50,13 +50,10 @@ Here are some ideas to get you started:
 
 ### **a few words about me**
 ---
-I got my degree in molecular biology at the University of Buenos Aires. As an undergraduate I joined a lab in the Institute of Biology and Experimental Medicine (IBYME-CONICET, Buenos Aires) to study hormone-dependent gene regulation in endometrial adenocarcinoma cells, which resulted in a bachelor thesis. I then went on to obtain my PhD on the regulatory mechanisms of nuclear steroid receptors and chromosome architecture using the same in vitro model. 
+I got my BSc degree in molecular biology at the University of Buenos Aires. Being an undergraduate I began my scientific career studying hormone-dependent gene regulation in endometrial adenocarcinoma cells. Then, I went on to obtain my PhD on the regulatory mechanisms of nuclear steroid receptors and chromosome architecture using the same in vitro model. During this time, I gained experience in NGS technologies, bioinformatic analyses and programming, which I then applied into Stem Cell Biology & Cardiac differentiation projects as a Postdoctoral Fellow, mostly focused on non-coding RNAs. After co-developing a variety of AI projects, I participated in the creation of a healthcare startup dedicated to the early AI-based diagnosis of cardiovascular disease using whole blood transcriptome, where I led a team of bioinformaticians and data scientists. Currently, I'm part of ZS as an Senior Bioinformatician-Associate Consultant, assisting clients to achieve their objectives.
 
-During the PhD I completed three separate internships in the Center for Genomic Regulation (Barcelona) as part of a collaborative project focused on investigating cell-type specific gene regulation on endometrial and mammary cancer cells. 
 
-Currently, I hold a postdoc position at FLENI Institute (Buenos Aires) where I study Stem Cell Biology and the expression dynamics of non-coding RNAs during cardiac differentiation using diverse molecular, gene editing and bioinformatic tools.
-
-Also, I'm the Bioinformatics and Data Analysis Team Lead in MultiplAI Health, a startup dedicated to making cardiovascular screening accessible for anyone.
+![image](https://github.com/user-attachments/assets/6d224d40-6382-4e12-87b2-8bfa8601c674)
 
 <!--
 [<img align="left" alt="LIAN" width="50px" height="50px" src="logos/lian_logo.svg" />][lian]
