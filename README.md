@@ -27,10 +27,13 @@ Here are some ideas to get you started:
 ### **currently using and continuously learning**
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" />][sql]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rbase]
 [<img align="left" alt="Git" width="26px" src="logos/git.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" src="logos/github.svg" />][github]
 [<img align="left" alt="Terminal" width="26px" src="logos/gnubash.svg" />][bash]
+[<img align="left" alt="Nextflow" width="26px" src="https://github.com/nextflow-io/trademark/blob/26e6fbc0830b0ff2b1af9df279cd22a48f37e14d/nextflow-icon.png" />[nextflow]
+[<img align="left" alt="Databricks" width="26px" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />[databricks]
 
 
 <br />
@@ -38,8 +41,7 @@ Here are some ideas to get you started:
 
 
 ### **get in touch with me**
-<!--[<img align="left" alt="alelagreca | ZS" width="35px" src="logos/ZS_Logo_RGB.png" />][zs] -->
-[<img align="left" alt="alejandro.lagreca@zs.com | ZS" width="35px" src="logos/ZS_Logo_RGB.png" />][zs] 
+[<img align="left" alt="alelagreca | ZS" width="35px" src="logos/ZS_Logo_RGB.png" />][gmailzs] 
 [<img align="left" alt="aled_lg | Twitter" width="22px" src="logos/twitter.svg" />][twitter]
 [<img align="left" alt="alelagreca | LinkedIn" width="22px" src="logos/linkedin.svg" />][linkedin]
 [<img align="left" alt="alelagreca | F6" width="22px" src="logos/f6s-logo.png" />][f6]
@@ -97,3 +99,8 @@ Definitions
 [fleni]: https://www.fleni.org.ar
 [ibyme]: https://www.ibyme.org.ar/
 [conicet]: https://www.conicet.gov.ar/
+[gmailzs]: alejandro.lagreca@zs.com
+[zs]: https://www.zs.com/
+[nextflow]: https://www.nextflow.io/
+[databricks]: https://www.databricks.com/
+[sql]: https://www.mysql.com/
