@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 
 
 ### **get in touch with me**
-[<img align="left" alt="alelagreca | ZS" width="35px" src="logos/ZS_Logo_RGB.png" />][zs]
+<!--[<img align="left" alt="alelagreca | ZS" width="35px" src="logos/ZS_Logo_RGB.png" />][zs] -->
+[<img align="left" alt="alejandro.lagreca@zs.com | ZS" width="35px" src="logos/ZS_Logo_RGB.png" />][zs] 
 [<img align="left" alt="aled_lg | Twitter" width="22px" src="logos/twitter.svg" />][twitter]
 [<img align="left" alt="alelagreca | LinkedIn" width="22px" src="logos/linkedin.svg" />][linkedin]
 [<img align="left" alt="alelagreca | F6" width="22px" src="logos/f6s-logo.png" />][f6]
