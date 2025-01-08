@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="alelagreca | LinkedIn" width="22px" src="logos/linkedin.svg" />][linkedin]
 [<img align="left" alt="alelagreca | F6" width="22px" src="logos/f6s-logo.png" />][f6]
 
-![Email\ ](mailto:alejandro.lagreca@zs.com) ZS
+
 <br />
 <br />
 
