@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br />
 
 
-### **get in touch with me**
+### **get in touch**
 [<img align="left" alt="ZS" width="35px" src="logos/ZS_Logo_RGB.png" />][zs] 
 [<img align="left" alt="aled_lg | Twitter" width="22px" src="logos/twitter.svg" />][twitter]
 [<img align="left" alt="alelagreca | LinkedIn" width="22px" src="logos/linkedin.svg" />][linkedin]
