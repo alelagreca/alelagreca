@@ -25,16 +25,16 @@ Here are some ideas to get you started:
 <br />
 
 ### **currently using and continuously learning**
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="SQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" />][sql]
+[<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="SQL" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" />][sql]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][rbase]
 [<img align="left" alt="Terminal" width="26px" src="logos/gnubash.svg" />][bash]
-[<img align="left" alt="Nextflow" width="23px" src="https://github.com/nextflow-io/trademark/blob/26e6fbc0830b0ff2b1af9df279cd22a48f37e14d/nextflow-icon.png" />][nextflow]
+[<img align="left" alt="Nextflow" width="22px" src="https://github.com/nextflow-io/trademark/blob/26e6fbc0830b0ff2b1af9df279cd22a48f37e14d/nextflow-icon.png" />][nextflow]
 [<img align="left" alt="Git" width="26px" src="logos/git.svg" />][git]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="logos/github.svg" />][github]
-[<img align="left" alt="Databricks" width="26px" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />][databricks]
-[<img align="left" alt="Gitpod" width="26px" src="https://www.gitpod.io/svg/media-kit/logo-mark.svg" />][gitpod]
+[<img align="left" alt="Databricks" width="24px" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />][databricks]
+[<img align="left" alt="Gitpod" width="22px" src="https://www.gitpod.io/svg/media-kit/logo-mark.svg" />][gitpod]
 
 
 <br />
