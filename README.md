@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="logos/github.svg" />][github]
 [<img align="left" alt="Databricks" width="26px" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />][databricks]
+[<img align="left" alt="Gitpod" width="26px" src="https://www.gitpod.io/svg/media-kit/logo-mark.svg" />][gitpod]
 
 
 <br />
@@ -104,3 +105,4 @@ Definitions
 [nextflow]: https://www.nextflow.io/
 [databricks]: https://www.databricks.com/
 [sql]: https://www.mysql.com/
+[gitpod]: https://www.gitpod.io/
