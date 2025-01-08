@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### **get in touch with me**
 [<img align="left" alt="aled_lg | Twitter" width="22px" src="logos/twitter.svg" />][twitter]
 [<img align="left" alt="alelagreca | LinkedIn" width="22px" src="logos/linkedin.svg" />][linkedin]
-[<img align="center" alt="alelagreca | ZS" width="22px" src="logos/ZS Logo RGB.png" />][zs]
+[<img align="center" alt="alelagreca | ZS" width="30px" src="logos/ZS Logo RGB.png" />][zs]
 [<img align="left" alt="alelagreca | F6" width="22px" src="logos/f6s-logo.png" />][f6]
 
 
